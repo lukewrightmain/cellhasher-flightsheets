@@ -1,0 +1,14 @@
+{
+  "flightsheet": {
+    "name": "Virel Jump-Start",
+    "minerType": "be0246c1-1ff3-4c95-8469-a7b03b549ca4",
+    "walletAddress": "iv1k1bskp1896ryqdie2m5q0gmkeetdvogaf57au",
+    "poolUrl": "na.rplant.xyz:7155",
+    "threads": 4,
+    "algorithm": "randomx",
+    "alwaysInstallBeforeRun": false,
+    "id": "8da669cd-3215-425e-a9dc-2a5efe334df9"
+  },
+  "timestamp": "2026-02-16T02:50:24.231Z",
+  "version": "1.0.0"
+}

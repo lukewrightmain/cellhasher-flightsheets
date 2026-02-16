@@ -1,0 +1,21 @@
+{
+  "flightsheet": {
+    "name": "BTC",
+    "minerType": "449a1045-1ef5-4fa4-bb68-d9d1b3ea5ada",
+    "walletAddress": "BC1Q72LY5MY2D4F3HS2Y50HTQN72E2ZCM62K58DT3Q",
+    "poolUrl": "solo.ckpool.org:3333",
+    "threads": 8,
+    "algorithm": "sha256",
+    "alwaysInstallBeforeRun": false,
+    "id": "83d2ee60-cc29-48a4-8bcd-cba47fb78b4b",
+    "password": "",
+    "vdftime1": "",
+    "vdftime2": "",
+    "xmrigAlgorithm": "",
+    "cpuMaxThreadsHint": "",
+    "customFlags": "",
+    "additionalFlags": ""
+  },
+  "timestamp": "2026-02-16T02:51:36.005Z",
+  "version": "1.0.0"
+}
