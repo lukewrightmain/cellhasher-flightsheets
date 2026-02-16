@@ -1,13 +1,13 @@
 {
   "flightsheet": {
-    "name": "Virel Jump-Start",
-    "minerType": "a6306b3b-0ca0-4da5-a195-b07067a8857c",
-    "walletAddress": "iv1k1bskp1896ryqdie2m5q0gmkeetdvogaf57au",
-    "poolUrl": "na.rplant.xyz:7155",
-    "threads": 4,
-    "algorithm": "randomx",
+    "name": "Verus",
+    "minerType": "c6a7c693-466a-49ba-a697-f9a764667d4e",
+    "walletAddress": "RQJGcvqboXdDme3r2VKzaYViUnj6P8yQJz",
+    "poolUrl": "stratum+tcp://us.vipor.net:5040",
+    "threads": 8,
+    "algorithm": "verushash",
     "alwaysInstallBeforeRun": false,
-    "id": "8da669cd-3215-425e-a9dc-2a5efe334df9",
+    "id": "c69c1582-4c00-455e-bf3b-296750dc6f83",
     "password": "",
     "vdftime1": "",
     "vdftime2": "",
@@ -16,6 +16,6 @@
     "customFlags": "",
     "additionalFlags": ""
   },
-  "timestamp": "2026-02-16T02:51:27.551Z",
+  "timestamp": "2026-02-16T18:19:39.390Z",
   "version": "1.0.0"
 }
